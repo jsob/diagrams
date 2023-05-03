@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T12:33:52.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="F7lpXLdoSg-4ml4Oev2B" version="21.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-03T12:34:23.201Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0tdaxxAPgiWJYhIwFljt" version="21.2.6" type="github" pages="3">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -347,7 +347,7 @@
         <mxCell id="LQxQXG5NJgoPXGxqHWLM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="LQxQXG5NJgoPXGxqHWLM-1" source="LQxQXG5NJgoPXGxqHWLM-20" target="LQxQXG5NJgoPXGxqHWLM-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LQxQXG5NJgoPXGxqHWLM-20" value="Ввод&lt;br style=&quot;font-size: 14px;&quot;&gt;данных" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1" parent="LQxQXG5NJgoPXGxqHWLM-1">
+        <mxCell id="LQxQXG5NJgoPXGxqHWLM-20" value="Ввод&lt;br style=&quot;font-size: 14px;&quot;&gt;данных в ИСУА" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fontSize=14;" vertex="1" parent="LQxQXG5NJgoPXGxqHWLM-1">
           <mxGeometry x="881" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LQxQXG5NJgoPXGxqHWLM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="LQxQXG5NJgoPXGxqHWLM-1" source="LQxQXG5NJgoPXGxqHWLM-22" target="LQxQXG5NJgoPXGxqHWLM-25">
