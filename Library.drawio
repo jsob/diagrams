@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T13:19:21.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vzSwjLz18OPnRrsogajV" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-10T13:22:29.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vXTkDKFcvVe5sLgw6_qE" version="21.6.1" type="github" pages="2">
   <diagram id="So0BO-VB4mpMW315n1-w" name="library_v1">
-    <mxGraphModel dx="1100" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,12 +89,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="library_v2" id="SDdqZdt87hvkzgMlw2qw">
-    <mxGraphModel dx="1467" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JHeYQwHXTsid6suyzZAi-0" />
         <mxCell id="JHeYQwHXTsid6suyzZAi-1" parent="JHeYQwHXTsid6suyzZAi-0" />
         <mxCell id="JHeYQwHXTsid6suyzZAi-2" value="Библиотека" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="JHeYQwHXTsid6suyzZAi-1">
-          <mxGeometry x="40" y="40" width="1390" height="790" as="geometry" />
+          <mxGeometry x="40" y="40" width="1390" height="720" as="geometry" />
         </mxCell>
         <mxCell id="JHeYQwHXTsid6suyzZAi-3" value="Читатель" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="JHeYQwHXTsid6suyzZAi-2">
           <mxGeometry x="20" width="1370" height="200" as="geometry" />
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JHeYQwHXTsid6suyzZAi-22" value="Кассир" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="JHeYQwHXTsid6suyzZAi-2">
-          <mxGeometry x="20" y="500" width="1370" height="290" as="geometry" />
+          <mxGeometry x="20" y="500" width="1370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="JHeYQwHXTsid6suyzZAi-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JHeYQwHXTsid6suyzZAi-22" source="JHeYQwHXTsid6suyzZAi-24" target="caFPfb8aIZsa83JF2-bs-0">
           <mxGeometry relative="1" as="geometry">
