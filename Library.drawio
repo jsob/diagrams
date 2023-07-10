@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T13:04:22.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="POTPi39R9O6X5M42bS4q" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T13:04:34.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p2kA9XbYxTHgcA2IP3qn" version="21.6.1" type="github">
   <diagram id="So0BO-VB4mpMW315n1-w" name="library_v1">
-    <mxGraphModel dx="338" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="704" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,25 @@
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-25" value="Отметка возврата книги в читательском билете и карточке книги" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-5">
           <mxGeometry x="470" y="160" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-6" target="MDjdzu3vmv4DpYdNtKIt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=37.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-14" target="MDjdzu3vmv4DpYdNtKIt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-17" target="MDjdzu3vmv4DpYdNtKIt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-25" target="MDjdzu3vmv4DpYdNtKIt-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="400" />
+              <mxPoint x="740" y="710" />
+              <mxPoint x="1145" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-3" value="Кассир" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-1">
           <mxGeometry x="20" y="500" width="1370" height="260" as="geometry" />
         </mxCell>
@@ -77,25 +96,6 @@
         </mxCell>
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-31" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-3">
           <mxGeometry x="1100" y="110" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-6" target="MDjdzu3vmv4DpYdNtKIt-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=40;exitDy=37.5;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-14" target="MDjdzu3vmv4DpYdNtKIt-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-17" target="MDjdzu3vmv4DpYdNtKIt-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-25" target="MDjdzu3vmv4DpYdNtKIt-31">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1145" y="660" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="740" y="400" />
-              <mxPoint x="740" y="710" />
-              <mxPoint x="1145" y="710" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
