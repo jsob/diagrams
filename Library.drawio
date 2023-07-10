@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T13:00:38.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Iqo7_4qNdmdZAa7_vQOP" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T13:03:58.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="j645dzob3nOlX_ZjVGhH" version="21.6.1" type="github">
   <diagram id="So0BO-VB4mpMW315n1-w" name="library_v1">
-    <mxGraphModel dx="1257" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="338" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,9 +59,9 @@
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-3" value="Кассир" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-1">
           <mxGeometry x="20" y="500" width="1370" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-3" source="MDjdzu3vmv4DpYdNtKIt-19" target="MDjdzu3vmv4DpYdNtKIt-27">
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-3" source="MDjdzu3vmv4DpYdNtKIt-19" target="MDjdzu3vmv4DpYdNtKIt-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="100" as="targetPoint" />
+            <mxPoint x="1125" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-19" value="Приём оплаты по квитанции, выдача чека" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-3">
@@ -70,10 +70,12 @@
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-21" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-3">
           <mxGeometry x="1181" y="110" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-3" source="MDjdzu3vmv4DpYdNtKIt-27" target="MDjdzu3vmv4DpYdNtKIt-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-3" target="MDjdzu3vmv4DpYdNtKIt-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="135" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-27" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-3">
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-31" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="MDjdzu3vmv4DpYdNtKIt-3">
           <mxGeometry x="1100" y="110" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-6" target="MDjdzu3vmv4DpYdNtKIt-7">
@@ -85,8 +87,9 @@
         <mxCell id="MDjdzu3vmv4DpYdNtKIt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-17" target="MDjdzu3vmv4DpYdNtKIt-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MDjdzu3vmv4DpYdNtKIt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-25" target="MDjdzu3vmv4DpYdNtKIt-27">
+        <mxCell id="MDjdzu3vmv4DpYdNtKIt-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MDjdzu3vmv4DpYdNtKIt-1" source="MDjdzu3vmv4DpYdNtKIt-25" target="MDjdzu3vmv4DpYdNtKIt-31">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1145" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="400" />
               <mxPoint x="740" y="710" />
