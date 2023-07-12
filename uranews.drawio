@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T11:53:27.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2pSFN3EbeHP8o5V_1M9E" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T11:54:39.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y0EVyYZ-XOj-lGBJgrV-" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="1100" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,8 +74,11 @@
         <mxCell id="mFdXJgW_mLOd4mW9TATP-40" value="Отправить e-mail рассылки" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
           <mxGeometry x="910" y="200" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="mFdXJgW_mLOd4mW9TATP-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-8" source="mFdXJgW_mLOd4mW9TATP-41" target="mFdXJgW_mLOd4mW9TATP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-41" value="Отправить публикацию в соц.сеть&lt;br&gt;VK, Telegram, Instagram + FB" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
-          <mxGeometry x="910" y="320" width="130" height="80" as="geometry" />
+          <mxGeometry x="450" y="650" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-8" source="mFdXJgW_mLOd4mW9TATP-42" target="mFdXJgW_mLOd4mW9TATP-29">
           <mxGeometry relative="1" as="geometry" />
@@ -87,7 +90,7 @@
           <mxGeometry x="920" y="525" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-44" value="Отследить &lt;br&gt;подписки на&lt;br&gt;материалы на сайте и в соц.сетях" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
-          <mxGeometry x="250" y="595" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="730" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-45" value="Выгрузить в RSS-ленты и в&lt;br/&gt;агрегаторы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
           <mxGeometry x="720" y="605" width="120" height="80" as="geometry" />
