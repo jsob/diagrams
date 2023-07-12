@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T12:05:23.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cC6aTiT3CK3--UF72N5b" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T12:22:12.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RTBo1irR6666ayE9Qwa-" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
-    <mxGraphModel dx="3121" dy="3145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2158" dy="2621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFdXJgW_mLOd4mW9TATP-18" value="uc Админка URA.RU" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=120;height=30;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
+        <mxCell id="mFdXJgW_mLOd4mW9TATP-18" value="uc Административная часть портала URA.RU" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=270;height=20;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
           <mxGeometry x="10" y="10" width="1090" height="890" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.566;entryY=0.989;entryDx=0;entryDy=0;endArrow=block;endFill=0;entryPerimeter=0;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-8" source="mFdXJgW_mLOd4mW9TATP-27" target="mFdXJgW_mLOd4mW9TATP-29">
