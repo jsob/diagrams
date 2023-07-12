@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T13:56:19.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IeL4v8yJE_0dbXGV57yl" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T13:57:30.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NDgwPsDW8R4-VPuZiIV9" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
-    <mxGraphModel dx="3008" dy="3083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2754" dy="2943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
             <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mFdXJgW_mLOd4mW9TATP-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-60" source="mFdXJgW_mLOd4mW9TATP-30" target="mFdXJgW_mLOd4mW9TATP-28">
+        <mxCell id="mFdXJgW_mLOd4mW9TATP-50" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=none;startFill=0;dashed=1;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-60" source="mFdXJgW_mLOd4mW9TATP-30" target="mFdXJgW_mLOd4mW9TATP-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-73" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mFdXJgW_mLOd4mW9TATP-50">
