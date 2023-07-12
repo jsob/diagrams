@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T11:15:55.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eI9cGm2ai2-6GWTsZIJL" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T11:16:27.654Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="drr0eOpq_1Ub-ebEBO4S" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="880" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
           <mxGeometry x="230" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-29" value="Выпустить публикацию" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
-          <mxGeometry x="230" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="450" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mFdXJgW_mLOd4mW9TATP-30" value="Согласовать &lt;br&gt;выпуск публикации" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
-          <mxGeometry x="230" y="440" width="120" height="80" as="geometry" />
+        <mxCell id="mFdXJgW_mLOd4mW9TATP-30" value="Согласовать &lt;br&gt;выпуск &lt;br&gt;публикации" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
+          <mxGeometry x="230" y="330" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-23" value="Админ" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="80" width="30" height="60" as="geometry" />
