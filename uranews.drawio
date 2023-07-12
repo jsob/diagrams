@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T12:22:12.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RTBo1irR6666ayE9Qwa-" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T12:26:35.450Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LR_n3WckL1QQ8ObjiClt" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
-    <mxGraphModel dx="2158" dy="2621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1794" dy="2417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="129.04748240735807" y="66.37026409461168" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mFdXJgW_mLOd4mW9TATP-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.72;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-8" source="mFdXJgW_mLOd4mW9TATP-44" target="mFdXJgW_mLOd4mW9TATP-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
