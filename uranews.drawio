@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T11:31:38.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EW3x-hybkscBj3Rgbxks" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T11:33:58.315Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="42p3UfA32KcmM7jGiGSQ" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
-    <mxGraphModel dx="1035" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mFdXJgW_mLOd4mW9TATP-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry y="-10" width="820" height="630" as="geometry">
+          <mxGeometry y="-10" width="1120" height="920" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-18" value="uc Админка URA.RU" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=120;height=30;" vertex="1" parent="mFdXJgW_mLOd4mW9TATP-8">
-          <mxGeometry x="10" y="10" width="800" height="610" as="geometry" />
+          <mxGeometry x="10" y="10" width="1090" height="890" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-8" source="mFdXJgW_mLOd4mW9TATP-27" target="mFdXJgW_mLOd4mW9TATP-31">
           <mxGeometry relative="1" as="geometry">
