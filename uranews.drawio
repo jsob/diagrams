@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T12:46:49.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="4BOBac8hGm4zJ14gd6hW" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T12:52:17.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S3e57Eb8Phi_BJjKa1MS" version="21.6.2" type="github">
   <diagram name="uc_uranews_admin_v1" id="NT0iobg41Oxpv7OmTtV7">
-    <mxGraphModel dx="3029" dy="3109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4174" dy="3751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mFdXJgW_mLOd4mW9TATP-8" value="ы" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="mFdXJgW_mLOd4mW9TATP-8" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="-1410" y="-2120" width="1120" height="920" as="geometry">
             <mxRectangle width="50" height="40" as="alternateBounds" />
           </mxGeometry>
