@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T06:45:59.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sEstaykj6bPweAF_Y6c2" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-13T06:48:02.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yNmId2J8G7LL6CIX3U-i" version="21.6.2" type="github" pages="2">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
-    <mxGraphModel dx="3092" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3691" dy="3418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
           <mxGeometry x="810" y="700" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-27" value="Модерировать комментарии" style="ellipse;whiteSpace=wrap;html=1;" parent="mFdXJgW_mLOd4mW9TATP-60" vertex="1">
-          <mxGeometry x="810" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="820" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="mFdXJgW_mLOd4mW9TATP-60" source="mFdXJgW_mLOd4mW9TATP-27" target="mFdXJgW_mLOd4mW9TATP-31" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-45" value="Выгрузить в RSS-ленты и в&lt;br/&gt;агрегаторы" style="ellipse;whiteSpace=wrap;html=1;" parent="mFdXJgW_mLOd4mW9TATP-60" vertex="1">
-          <mxGeometry x="610" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="820" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-33" value="Разместить &lt;br&gt;рекламу" style="ellipse;whiteSpace=wrap;html=1;" parent="mFdXJgW_mLOd4mW9TATP-60" vertex="1">
           <mxGeometry x="270" y="680" width="120" height="80" as="geometry" />
@@ -183,7 +183,7 @@
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-82" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mFdXJgW_mLOd4mW9TATP-58" vertex="1" connectable="0">
           <mxGeometry x="-0.2212" y="1" relative="1" as="geometry">
-            <mxPoint x="56" y="39" as="offset" />
+            <mxPoint x="56" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.951;entryY=0.73;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;dashed=1;" parent="mFdXJgW_mLOd4mW9TATP-60" source="mFdXJgW_mLOd4mW9TATP-42" target="mFdXJgW_mLOd4mW9TATP-29" edge="1">
@@ -225,7 +225,7 @@
         </mxCell>
         <mxCell id="mFdXJgW_mLOd4mW9TATP-83" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mFdXJgW_mLOd4mW9TATP-65" vertex="1" connectable="0">
           <mxGeometry x="0.6201" y="-3" relative="1" as="geometry">
-            <mxPoint x="91" y="117" as="offset" />
+            <mxPoint x="91" y="111" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8LBfvM-An7ltfvS0Z6-G-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=0;" edge="1" parent="mFdXJgW_mLOd4mW9TATP-60" source="8LBfvM-An7ltfvS0Z6-G-1" target="8LBfvM-An7ltfvS0Z6-G-3">
