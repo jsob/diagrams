@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T13:46:07.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oj5HMsR6Z6yBli3e5NQG" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-17T13:47:25.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fwhfsjtIh-I3dRsx-NOY" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2534" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qXeFQqh_vX23YXpmIfw6" name="bpmn_uranews_v1">
-    <mxGraphModel dx="1467" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -336,16 +336,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-40" value="Публикация на сайте" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="b8OnK_DWm-v6dqzw2tlo-2">
-          <mxGeometry x="1630" y="70" width="80" height="60" as="geometry" />
+          <mxGeometry x="1560" y="70" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="b8OnK_DWm-v6dqzw2tlo-2" source="hpbSIxn9IzVgdoP57Pw_-22" target="hpbSIxn9IzVgdoP57Pw_-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1520" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hpbSIxn9IzVgdoP57Pw_-27" value="есть доступ опубликовать" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-20">
+        <mxCell id="hpbSIxn9IzVgdoP57Pw_-27" value="доступ есть" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-20">
           <mxGeometry x="-0.8339" y="1" relative="1" as="geometry">
-            <mxPoint x="57" y="-9" as="offset" />
+            <mxPoint x="31" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="b8OnK_DWm-v6dqzw2tlo-2" source="hpbSIxn9IzVgdoP57Pw_-90" target="hpbSIxn9IzVgdoP57Pw_-36">
