@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T12:30:25.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RXqX9EXV_5yQiuwE6rZl" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-17T12:31:03.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Dv1t6Matia1FDfA3w00H" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2534" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qXeFQqh_vX23YXpmIfw6" name="bpmn_uranews_v1">
-    <mxGraphModel dx="622" dy="251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
           <mxGeometry x="20" y="200" width="1900" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-3" value="Подбор картинок/фотографий" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="b8OnK_DWm-v6dqzw2tlo-3">
-          <mxGeometry x="560" y="40" width="90" height="60" as="geometry" />
+          <mxGeometry x="630" y="40" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b8OnK_DWm-v6dqzw2tlo-5" value="Редактор" style="swimlane;html=1;startSize=20;horizontal=0;" parent="b8OnK_DWm-v6dqzw2tlo-1" vertex="1">
           <mxGeometry x="20" y="400" width="1900" height="200" as="geometry" />
