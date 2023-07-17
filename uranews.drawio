@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T13:56:40.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nDsclgZQQc3lscWLgRnz" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-17T13:56:51.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zwtvNqOQ16_XGOT5LSRy" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2534" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -587,7 +587,7 @@
             <mxPoint x="1335" y="30" as="sourcePoint" />
             <mxPoint x="120" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1475" y="330" />
+              <mxPoint x="1555" y="330" />
               <mxPoint x="80" y="330" />
               <mxPoint x="80" y="430" />
             </Array>
