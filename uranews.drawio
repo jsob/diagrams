@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T13:42:19.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="22HtL733n_usy8Y6-bCj" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-17T13:46:07.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oj5HMsR6Z6yBli3e5NQG" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2534" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qXeFQqh_vX23YXpmIfw6" name="bpmn_uranews_v1">
-    <mxGraphModel dx="2605" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -580,8 +580,7 @@
             <Array as="points">
               <mxPoint x="1475" y="330" />
               <mxPoint x="80" y="330" />
-              <mxPoint x="80" y="420" />
-              <mxPoint x="120" y="420" />
+              <mxPoint x="80" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
