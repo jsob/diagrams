@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T09:56:27.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lpqMZiJ2vMbngij0Ko1x" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-18T10:00:51.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ucCkgUS-ruo3tAGvfzS6" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="3690" dy="3160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qXeFQqh_vX23YXpmIfw6" name="bpmn_uranews_v2">
-    <mxGraphModel dx="679" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,14 +433,14 @@
             <mxPoint x="210" y="174.9999999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="120" />
-              <mxPoint x="170" y="165" />
-              <mxPoint x="395" y="165" />
+              <mxPoint x="170" y="170" />
+              <mxPoint x="395" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xuHOgIADDycE5K2g474E-8" value="корректировка не требуется" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-49">
-          <mxGeometry x="-0.4172" y="-1" relative="1" as="geometry">
-            <mxPoint x="45" y="14" as="offset" />
+        <mxCell id="xuHOgIADDycE5K2g474E-8" value="корректно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-49">
+          <mxGeometry x="-0.43" y="3" relative="1" as="geometry">
+            <mxPoint x="5" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-45" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="b8OnK_DWm-v6dqzw2tlo-5" vertex="1">
@@ -464,14 +464,14 @@
             <mxPoint x="520" y="145" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="440" y="120" />
-              <mxPoint x="440" y="165" />
-              <mxPoint x="655" y="165" />
+              <mxPoint x="440" y="170" />
+              <mxPoint x="655" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xuHOgIADDycE5K2g474E-9" value="корректировка не требуется" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-54">
-          <mxGeometry x="-0.3184" relative="1" as="geometry">
-            <mxPoint x="33" y="15" as="offset" />
+        <mxCell id="xuHOgIADDycE5K2g474E-9" value="корректно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-54">
+          <mxGeometry x="-0.33" y="3" relative="1" as="geometry">
+            <mxPoint x="-8" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-50" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="b8OnK_DWm-v6dqzw2tlo-5" vertex="1">
@@ -494,9 +494,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xuHOgIADDycE5K2g474E-10" value="корректировка не требуется" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-62">
+        <mxCell id="xuHOgIADDycE5K2g474E-10" value="корректно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-62">
           <mxGeometry x="-0.3007" y="-2" relative="1" as="geometry">
-            <mxPoint x="31" y="8" as="offset" />
+            <mxPoint x="-12" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-55" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="b8OnK_DWm-v6dqzw2tlo-5" vertex="1">
@@ -526,9 +526,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xuHOgIADDycE5K2g474E-11" value="корректировка не требуется" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-70">
-          <mxGeometry x="-0.2986" relative="1" as="geometry">
-            <mxPoint x="31" y="10" as="offset" />
+        <mxCell id="xuHOgIADDycE5K2g474E-11" value="корректно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hpbSIxn9IzVgdoP57Pw_-70">
+          <mxGeometry x="-0.32" relative="1" as="geometry">
+            <mxPoint x="-9" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-61" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="b8OnK_DWm-v6dqzw2tlo-5" vertex="1">
