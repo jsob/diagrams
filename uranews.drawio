@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T11:41:40.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cETyRp8N1NHoJtkl0LNA" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-18T11:43:19.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vSml5shmqVYi94zEf_ly" version="21.6.2" type="github" pages="4">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="3690" dy="3160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="bpmn_uranews_v3" id="iH1mybkYOFRUxoBBKMwv">
-    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ktl8khPUgh7wjibLMV21-0" />
         <mxCell id="Ktl8khPUgh7wjibLMV21-1" parent="Ktl8khPUgh7wjibLMV21-0" />
@@ -891,6 +891,10 @@
         <mxCell id="Ktl8khPUgh7wjibLMV21-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ktl8khPUgh7wjibLMV21-38" source="Ktl8khPUgh7wjibLMV21-83" target="Ktl8khPUgh7wjibLMV21-87">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="214.43" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="173" />
+              <mxPoint x="660" y="173" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-83" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-38">
@@ -899,7 +903,7 @@
         <mxCell id="Ktl8khPUgh7wjibLMV21-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ktl8khPUgh7wjibLMV21-38" source="Ktl8khPUgh7wjibLMV21-85" target="Ktl8khPUgh7wjibLMV21-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="805" y="85" />
+              <mxPoint x="800" y="85" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -910,21 +914,22 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="872" y="214.4299999999999" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="805" y="175" />
+              <mxPoint x="760" y="175" />
+              <mxPoint x="800" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-87" value="Публикация в Яндекс, Google" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-38">
-          <mxGeometry x="660" y="145" width="100" height="60" as="geometry" />
+          <mxGeometry x="660" y="150" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ktl8khPUgh7wjibLMV21-38" source="Ktl8khPUgh7wjibLMV21-89" target="Ktl8khPUgh7wjibLMV21-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-89" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-38">
-          <mxGeometry x="780" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="775" y="105" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-90" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-38">
-          <mxGeometry x="870" y="105" width="50" height="50" as="geometry" />
+          <mxGeometry x="860" y="105" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ktl8khPUgh7wjibLMV21-38" source="Ktl8khPUgh7wjibLMV21-92" target="Ktl8khPUgh7wjibLMV21-94">
           <mxGeometry relative="1" as="geometry" />
