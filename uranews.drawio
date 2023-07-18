@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T07:05:17.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FZmq7wf7H4GTtSubVKqs" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-18T07:06:16.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-hZTh_FOGZSFpGup1jDf" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="3690" dy="3160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="b8OnK_DWm-v6dqzw2tlo-2" source="hpbSIxn9IzVgdoP57Pw_-19" target="hpbSIxn9IzVgdoP57Pw_-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hpbSIxn9IzVgdoP57Pw_-19" value="Установка флагов готовности (закончен)" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="b8OnK_DWm-v6dqzw2tlo-2" vertex="1">
+        <mxCell id="hpbSIxn9IzVgdoP57Pw_-19" value="Установка флагов готовности к публикации" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="b8OnK_DWm-v6dqzw2tlo-2" vertex="1">
           <mxGeometry x="1380" y="70" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hpbSIxn9IzVgdoP57Pw_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="b8OnK_DWm-v6dqzw2tlo-2" source="hpbSIxn9IzVgdoP57Pw_-17" target="hpbSIxn9IzVgdoP57Pw_-19" edge="1">
