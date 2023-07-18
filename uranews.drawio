@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T13:44:42.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hTk0xNldSvvSnatnGCqU" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-18T13:46:17.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fqewYF7Ds-enzDKDgCm-" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="4454" dy="3468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="bpmn_uranews_v3" id="iH1mybkYOFRUxoBBKMwv">
-    <mxGraphModel dx="1956" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ktl8khPUgh7wjibLMV21-0" />
         <mxCell id="Ktl8khPUgh7wjibLMV21-1" parent="Ktl8khPUgh7wjibLMV21-0" />
@@ -761,7 +761,7 @@
             <mxPoint x="1474" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ktl8khPUgh7wjibLMV21-28" value="да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-27">
+        <mxCell id="Ktl8khPUgh7wjibLMV21-28" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-27">
           <mxGeometry x="-0.3481" y="-1" relative="1" as="geometry">
             <mxPoint x="-3" y="-11" as="offset" />
           </mxGeometry>
@@ -781,7 +781,7 @@
         <mxCell id="Ktl8khPUgh7wjibLMV21-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Ktl8khPUgh7wjibLMV21-6" source="Ktl8khPUgh7wjibLMV21-35" target="Ktl8khPUgh7wjibLMV21-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ktl8khPUgh7wjibLMV21-34" value="да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-33">
+        <mxCell id="Ktl8khPUgh7wjibLMV21-34" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-33">
           <mxGeometry x="-0.721" y="-1" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
@@ -795,7 +795,7 @@
             <mxPoint x="505" y="125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ktl8khPUgh7wjibLMV21-4" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-3">
+        <mxCell id="Ktl8khPUgh7wjibLMV21-4" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-3">
           <mxGeometry x="-0.8586" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
@@ -820,7 +820,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ktl8khPUgh7wjibLMV21-96" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-95">
+        <mxCell id="Ktl8khPUgh7wjibLMV21-96" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-95">
           <mxGeometry x="-0.977" y="1" relative="1" as="geometry">
             <mxPoint x="14" y="-6" as="offset" />
           </mxGeometry>
@@ -860,7 +860,7 @@
             <mxPoint x="1210" y="214.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ktl8khPUgh7wjibLMV21-75" value="нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-74">
+        <mxCell id="Ktl8khPUgh7wjibLMV21-75" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-74">
           <mxGeometry x="-0.25" relative="1" as="geometry">
             <mxPoint x="14" y="8" as="offset" />
           </mxGeometry>
@@ -870,7 +870,7 @@
             <mxPoint x="1240" y="149.43" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ktl8khPUgh7wjibLMV21-77" value="да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-76">
+        <mxCell id="Ktl8khPUgh7wjibLMV21-77" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ktl8khPUgh7wjibLMV21-76">
           <mxGeometry x="-0.3537" y="1" relative="1" as="geometry">
             <mxPoint x="-9" y="-1" as="offset" />
           </mxGeometry>
