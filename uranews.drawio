@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T13:48:28.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wmQkWb4H6Ijw-oyx43oB" version="21.6.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-18T13:49:12.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qq4O3eIaCULC9Tl64jER" version="21.6.2" type="github" pages="3">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="4454" dy="3468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="bpmn_uranews_v3" id="iH1mybkYOFRUxoBBKMwv">
-    <mxGraphModel dx="2200" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ktl8khPUgh7wjibLMV21-0" />
         <mxCell id="Ktl8khPUgh7wjibLMV21-1" parent="Ktl8khPUgh7wjibLMV21-0" />
@@ -957,7 +957,7 @@
         <mxCell id="nlAd0DCV5mp9GUIv8vYt-6" value="Корректировка материала публикации" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=receive;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-38">
           <mxGeometry x="860" y="88.75" width="100" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="2inHxUNFwcAbGOMp66h_-0" value="" style="swimlane;startSize=0;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-1">
+        <mxCell id="2inHxUNFwcAbGOMp66h_-0" value="" style="swimlane;startSize=0;fontColor=default;strokeColor=none;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-1">
           <mxGeometry x="70" y="70" width="1640" height="570" as="geometry" />
         </mxCell>
       </root>
