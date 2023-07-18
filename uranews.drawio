@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-18T11:38:27.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ptPDc2tlACLKoX6kRHiU" version="21.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-18T11:39:07.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zkDt7RuJIlb2dqNKck_C" version="21.6.2" type="github" pages="4">
   <diagram name="uc_uranews_admin_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="3690" dy="3160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -681,12 +681,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="bpmn_uranews_v3" id="iH1mybkYOFRUxoBBKMwv">
-    <mxGraphModel dx="733" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2933" dy="1507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ktl8khPUgh7wjibLMV21-0" />
         <mxCell id="Ktl8khPUgh7wjibLMV21-1" parent="Ktl8khPUgh7wjibLMV21-0" />
         <mxCell id="Ktl8khPUgh7wjibLMV21-2" value="УРА.РУ - Бизнес-процесс публикации материала &quot;Как есть&quot;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-1">
-          <mxGeometry x="80" y="80" width="1740" height="590" as="geometry" />
+          <mxGeometry x="80" y="80" width="1740" height="540" as="geometry" />
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=dash;startFill=0;entryPerimeter=0;" edge="1" parent="Ktl8khPUgh7wjibLMV21-2" source="Ktl8khPUgh7wjibLMV21-35" target="nlAd0DCV5mp9GUIv8vYt-0">
           <mxGeometry relative="1" as="geometry">
@@ -839,7 +839,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ktl8khPUgh7wjibLMV21-38" value="Редактор" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ktl8khPUgh7wjibLMV21-2">
-          <mxGeometry x="20" y="310" width="1720" height="280" as="geometry" />
+          <mxGeometry x="20" y="310" width="1720" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nlAd0DCV5mp9GUIv8vYt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ktl8khPUgh7wjibLMV21-38" source="Ktl8khPUgh7wjibLMV21-49">
           <mxGeometry relative="1" as="geometry">
