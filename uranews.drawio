@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T15:57:52.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yoWUsOorUTRMxS8YfMXE" version="21.6.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-07-19T15:58:53.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kUIYz4qUM9wyaUyp1Y4O" version="21.6.3" type="github" pages="3">
   <diagram name="uc_uranews_adminpanel_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2689" dy="2910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="bpmn_uranews_comments_edit_v1" id="RCIA0oHRFM-I9lLUvkCm">
-    <mxGraphModel dx="1867" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tIMY_Vy34c-Rno6MFRbC-0" />
         <mxCell id="tIMY_Vy34c-Rno6MFRbC-1" parent="tIMY_Vy34c-Rno6MFRbC-0" />
@@ -544,7 +544,7 @@
             <mxRectangle x="20" y="70" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIMY_Vy34c-Rno6MFRbC-2" value="УРА.РУ - Бизнес-процесс публикации материала &quot;Как есть&quot;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="tIMY_Vy34c-Rno6MFRbC-67">
+        <mxCell id="tIMY_Vy34c-Rno6MFRbC-2" value="УРА.РУ - Бизнес-процесс редактирования комментариев &quot;Как есть&quot;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;whiteSpace=wrap;" vertex="1" parent="tIMY_Vy34c-Rno6MFRbC-67">
           <mxGeometry x="10" y="25" width="1650" height="550" as="geometry" />
         </mxCell>
         <mxCell id="tIMY_Vy34c-Rno6MFRbC-3" value="Редактор&lt;br&gt;комментариев" style="swimlane;html=1;startSize=40;horizontal=0;" vertex="1" parent="tIMY_Vy34c-Rno6MFRbC-2">
