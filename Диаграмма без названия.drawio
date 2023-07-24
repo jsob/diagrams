@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T11:25:32.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EPvo1lcNJqgUCwsd67ZY" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-24T11:28:50.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ECvmDd6Zp1YYEQsAkoIt" version="21.6.5" type="github">
   <diagram name="Страница 1" id="9IuZvNYRoDw_cZlBoTu7">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="Grty-4EMdzizV5Q1cPPK-25" value="Пользователь" style="swimlane;html=1;startSize=20;horizontal=0;" parent="Grty-4EMdzizV5Q1cPPK-22" vertex="1">
           <mxGeometry x="20" y="340" width="1270" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Grty-4EMdzizV5Q1cPPK-26" value="1. Описание бизнес-процесса &quot;Как есть&quot;&lt;br&gt;2. &quot;Узкие места&quot;, определение &quot;серых зон&quot;&lt;br&gt;3. Используемые технологии&lt;br&gt;4. Описание бизнес-процесса &quot;Как должно быть&quot;&lt;br&gt;5. ФТ, НФ, ТЗ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="Grty-4EMdzizV5Q1cPPK-26" value="1. Описание бизнес-процесса &quot;Как есть&quot;&lt;br&gt;2. &quot;Узкие места&quot;, определение &quot;серых зон&quot;&lt;br&gt;3. Описание сервиса&lt;br&gt;4. Описание бизнес-процесса &quot;Как должно быть&quot;&lt;br&gt;5. ФТ, НФ, ТЗ" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="40" y="990" width="580" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Grty-4EMdzizV5Q1cPPK-27" value="Роли" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
