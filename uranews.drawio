@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T07:19:31.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="EVNKMGMFlLSo99991j10" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-31T07:19:51.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9911f08DRTyqZGR6hdE5" version="21.6.5" type="github" pages="4">
   <diagram name="uc_uranews_adminpanel_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2689" dy="2910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -820,12 +820,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UZLnbi2luI1Y6Ktd3bO2" name="cmp_admin">
-    <mxGraphModel dx="1467" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XIqclxuHXLVlnoCAxEpE-1" value="cmp Админка &quot;Как есть&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=190;height=30;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1560" height="780" as="geometry" />
+          <mxGeometry x="40" y="40" width="1080" height="570" as="geometry" />
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-2" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="230" height="400" as="geometry" />
