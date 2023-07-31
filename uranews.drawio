@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T06:53:08.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iCxSYznA5jqRspjcaK-_" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-31T06:53:32.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HZ8mmLilA9qwk6VqOWV6" version="21.6.5" type="github" pages="4">
   <diagram name="uc_uranews_adminpanel_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2689" dy="2910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -830,11 +830,11 @@
         <mxCell id="XIqclxuHXLVlnoCAxEpE-2" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="170" y="120" width="230" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="XIqclxuHXLVlnoCAxEpE-3" value="FRONTEND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XIqclxuHXLVlnoCAxEpE-3" value="FRONTEND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="215" y="90" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-4" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="800" height="600" as="geometry" />
+          <mxGeometry x="470" y="120" width="800" height="560" as="geometry" />
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-6" value="BACKEND" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="90" width="80" height="26" as="geometry" />
