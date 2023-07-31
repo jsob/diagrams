@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T06:56:44.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="A7oLUoz8ao5NMNa8TRvh" version="21.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-07-31T07:01:46.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="s4elXHqkFSBRjrrowkeH" version="21.6.5" type="github" pages="4">
   <diagram name="uc_uranews_adminpanel_v5" id="NT0iobg41Oxpv7OmTtV7">
     <mxGraphModel dx="2689" dy="2910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -820,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UZLnbi2luI1Y6Ktd3bO2" name="cmp_admin">
-    <mxGraphModel dx="880" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,6 +838,9 @@
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-6" value="BACKEND" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="90" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XIqclxuHXLVlnoCAxEpE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XIqclxuHXLVlnoCAxEpE-7" target="XIqclxuHXLVlnoCAxEpE-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-7" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460" y="250" width="40" height="40" as="geometry" />
@@ -859,15 +862,6 @@
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png;" vertex="1" parent="1">
           <mxGeometry x="273.82" y="374" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XIqclxuHXLVlnoCAxEpE-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.063;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XIqclxuHXLVlnoCAxEpE-14" target="XIqclxuHXLVlnoCAxEpE-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="390" />
-              <mxPoint x="560" y="288" />
-              <mxPoint x="620" y="288" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-14" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="40" height="40" as="geometry" />
@@ -895,6 +889,12 @@
         </mxCell>
         <mxCell id="XIqclxuHXLVlnoCAxEpE-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-128.png" vertex="1" parent="1">
           <mxGeometry x="665.5" y="396" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="XIqclxuHXLVlnoCAxEpE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.061;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XIqclxuHXLVlnoCAxEpE-30" target="XIqclxuHXLVlnoCAxEpE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XIqclxuHXLVlnoCAxEpE-30" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
